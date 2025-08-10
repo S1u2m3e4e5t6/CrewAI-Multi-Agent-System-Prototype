@@ -23,10 +23,15 @@ Each agent has configurable behaviors and communicates with other agents to dyna
 
 ## 📂 Project Structure
 ├── agents/ # Agent definitions and configurations
+
 ├── workflows/ # Task orchestration logic
+
 ├── utils/ # Helper functions
+
 ├── main.py # Entry point for running the system
+
 ├── requirements.txt # Project dependencies
+
 └── README.md # Documentation
 
 
